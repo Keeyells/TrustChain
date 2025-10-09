@@ -2,7 +2,7 @@
 
 ## Technical Overview
 
-SourceTrust is a decentralized marketplace for AI datasets, leveraging Story Protocol for intellectual property registration and protection. The application is built using Next.js, TypeScript, and integrates with blockchain technologies.
+TrustChain is a decentralized marketplace for AI datasets, leveraging Story Protocol for intellectual property registration and protection. The application is built using Next.js, TypeScript, and integrates with blockchain technologies.
 
 ## Core Technologies
 
