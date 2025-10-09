@@ -1,4 +1,4 @@
-# SourceTrust: AI Dataset Marketplace with Story Protocol Integration
+# TrustChain: AI Dataset Marketplace with Story Protocol Integration
 
 ## Technical Overview
 
